@@ -1,8 +1,8 @@
 {
-  "name": "one-dark-syntax",
+  "name": "my-one-dark",
   "theme": "syntax",
-  "version": "1.3.0",
-  "description": "A dark syntax theme",
+  "version": "0.0.1",
+  "description": "Fork of One Dark with jsx support",
   "keywords": [
     "dark",
     "blue",
